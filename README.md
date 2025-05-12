@@ -2,6 +2,7 @@
 ## 📈 Forecasting Metro Housing Rents with LSTM
 
 Built a deep learning model to forecast rent prices using time-series housing data, achieving strong predictive performance and interactive visualization.
+Data source: [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset)
 
 ## 📌 Highlights
 - Developed an LSTM model using **Keras** to forecast metro housing prices; achieved **MAE < 3.5%** and high R² on validation set.
